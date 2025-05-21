@@ -57,3 +57,9 @@ Update DB connection details inside your ormconfig.xml or Spring config file:
 <property name="connection.password">your_password</property>
 ```
 ---
+
+## 👤 Author
+
+**Rajni**  
+🎯 Aspiring Java Backend Developer  
+🔗 [GitHub Profile](https://github.com/rajni2209)

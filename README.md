@@ -27,7 +27,6 @@ This is a **console-based Java application** that performs CRUD (Create, Read, U
 
 ---
 
----
 
 ## 🧑‍💻 How to Run
 
